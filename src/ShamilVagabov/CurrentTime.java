@@ -24,8 +24,4 @@ public class CurrentTime {
         System.out.println("Current time in Moscow is "+ (currentHours + 3) +
                 ":" + currentMinutes + ":" + currentSeconds + " GTM");
     }
-
-
-
-
 }
